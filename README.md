@@ -1,0 +1,2 @@
+# failureMakeHTML
+cregitを使ったhtmlの生成に失敗したファイルのみを集めたリポジトリ
